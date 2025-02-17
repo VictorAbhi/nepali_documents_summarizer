@@ -72,6 +72,3 @@ By combining **BERT embeddings** and **K-means clustering**, the Nepali document
 - Improve the **OCR** accuracy for better text extraction from images.
 
 ---
-
-## License  
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
