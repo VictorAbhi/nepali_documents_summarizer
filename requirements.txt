@@ -1,0 +1,10 @@
+sentence_transformers
+torch
+sentencepiece
+transformers
+pypdf
+pymupdf
+tiktoken
+streamlit
+chromadb
+easyocr
